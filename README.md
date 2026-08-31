@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0075-sort-colors) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
