@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -44,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -61,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
