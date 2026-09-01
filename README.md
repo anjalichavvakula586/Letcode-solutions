@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
