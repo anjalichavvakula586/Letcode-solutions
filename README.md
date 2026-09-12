@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/anjalichavvakula586/Letcode-solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
